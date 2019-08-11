@@ -9,3 +9,4 @@ SciPy ecosystem:
 4. [Numpy](https://scipy.org/install.html)
 5. [Pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
 6. [Matplotlib](https://matplotlib.org/users/installing.html)
+7. [Seaborn](https://seaborn.pydata.org/installing.html)
