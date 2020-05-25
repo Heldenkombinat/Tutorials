@@ -1,5 +1,5 @@
 # Learning from home
-1. Instal the required libraries for the course (package `1` from the `Installation` section below).
+1. Instal the required libraries for the course (package `1` in the `Installation` section below).
 2. Learn how to clone this GitHub repo (videos `1` and `2` in the `Additional resources` section below).
 3. Learn the basics of Python (video `3` in the `Additional resources` section below). Write all the course exercises in a **Jupyter notebook** and send the file to your tutor for review.
 4. Read the notebooks in [1_Python](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/1_Python).
