@@ -1,9 +1,13 @@
 # Learning from home
 1. Instal the required libraries for the course (package `1` from the `Installation` section below).
 2. Learn how to clone this GitHub repo (videos `1` and `2` in the `Additional resources` section below).
-3. Learn the basics of Python (video `3` in the `Additional resources` section below). Write all the course exercises in a **Jupyter notebook** and send the file the tutor for review.
-4. Revview the content of all notebooks in [5_Linear-regression](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/5_Linear-regression).
-5. Repeat the analysis of [5_Linear-regression/4a_multiple-linear-regression](https://github.com/Heldenkombinat/Tutorials/blob/master/Data-Analysis/5_Linear-regression/4a_multiple-linear-regression_housing.ipynb) with your own dataset. You can find free datasets with link `5` in the `Additional resources` section below. Write all the course exercises in a **Jupyter notebook** and send the file the tutor for review.
+3. Learn the basics of Python (video `3` in the `Additional resources` section below). Write all the course exercises in a **Jupyter notebook** and send the file to your tutor for review.
+4. Read the notebooks in [1_Python](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/1_Python).
+5. Read the notebooks in [2_Numpy](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/2_Numpy).
+6. Read the notebooks in [3_Pandas](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/3_Pandas).
+7. Read the notebooks in [4_Matplotlib](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/4_Matplotlib).
+8. Read the notebooks in [5_Linear-regression](https://github.com/Heldenkombinat/Tutorials/tree/master/Data-Analysis/5_Linear-regression).
+9. Repeat the analysis in [5_Linear-regression/4a_multiple-linear-regression](https://github.com/Heldenkombinat/Tutorials/blob/master/Data-Analysis/5_Linear-regression/4a_multiple-linear-regression_housing.ipynb) with your own dataset. You can find free datasets with link `5` in the `Additional resources` section below. Write all the course exercises in a **Jupyter notebook** and send the file to your tutor for review.
 
 # Installation
 
